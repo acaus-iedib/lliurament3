@@ -1,0 +1,1 @@
+poetry run python churn_predict_app.py
